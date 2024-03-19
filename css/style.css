@@ -60,7 +60,7 @@ body{
 
 }
 
-.button_for{
+.button_form{
     margin-top: 15px;
     font-family: 'Poppins',sans-serif;
     font-weight: 600;
@@ -73,7 +73,7 @@ body{
     background-color: #fff;
 
 } 
-.button_for:hover{
+.button_form:hover{
 
     box-shadow: 0px 0px 10 px 1px #109c33;
     transition: all ease-in-out .5s;
